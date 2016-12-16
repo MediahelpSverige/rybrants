@@ -22,7 +22,7 @@ define('DB_USER', '180958_yh13721');
 define('DB_PASSWORD', 'steel1992');
 
 /** MySQL hostname */
-define('DB_HOST', 'http://rybrants.mediahelpcrm.se/');
+define('DB_HOST', 'rybrants-180958.mysql.binero.se');
 
 define('WP_SITEURL', 'http://rybrants.mediahelpcrm.se/');
 define('WP_HOME', 'http://rybrants.mediahelpcrm.se/');
