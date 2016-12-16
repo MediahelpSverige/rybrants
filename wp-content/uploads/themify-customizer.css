@@ -1,0 +1,72 @@
+/* Themify Customize Styling */
+body {	
+	background-color: #ffffff; 
+}
+#content {	
+	width: 1280px;
+	padding-top: 0px; 
+}
+#headerwrap {	
+	background-color: #000000;
+	padding-top: 10px;
+	padding-bottom: 10px; 
+}
+#header {	
+	padding: 0px; 
+}
+#main-nav {		position:absolute;
+
+	right: 0px;
+	bottom: 0px; 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #ff9900; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ff9900; 
+}
+#footerwrap {	
+	background-color: #333333; 
+}
+#footer-logo {	display: none; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+#footer a:hover {	
+	color: #ff9900; 
+}
+.footer-widgets {		text-align:left; 
+}
+.footer-widgets .widget li {	
+	padding: 0px; 
+}
+
+/* Themify Custom CSS */
+@media (min-width: 768px) {
+textarea {
+max-width: 24.3em;
+resize: none;
+}
+}
+
+.page-id-24 #content {
+padding-bottom: 0;
+}
+
+.sp-slide-text {
+background: rgba(255,255,255,0.2);
+padding:50px 25px;
+}
+
+.sp-slide-text h1 {
+color:#000 !important;
+font-weight: 700;
+letter-spacing: -0.5px;
+}
